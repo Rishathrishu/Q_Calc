@@ -7,7 +7,7 @@ public class debug {
             // Variable to store the reversed number
         int reversed = 0;
 
-        greet("sanjita");
+        greet("rishath");
 
         add(4,5);
 
